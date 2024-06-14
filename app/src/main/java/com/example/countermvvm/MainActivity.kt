@@ -60,7 +60,6 @@ fun TheCounterApp(){
         count.value--
     }
 
-
     Column (
         modifier = Modifier.fillMaxSize(),
         verticalArrangement = Arrangement.Center,
